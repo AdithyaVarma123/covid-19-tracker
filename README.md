@@ -1,6 +1,6 @@
 # covid_19_tracker
 
-A new Flutter application to track the statistics of covid cases.
+A new Flutter application to track the statistics of covid cases around the world.
 
 ## Getting Started
 
